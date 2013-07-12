@@ -1,0 +1,15 @@
+{
+    "name": "GreenHopperWidget",
+    "coffeetable_library": true,
+    "description": "",
+    "dependencies": {
+        "visionmedia/superagent": "*"
+    },
+    "paths": [
+        "../"
+    ],
+    "scripts": [
+        "build/main.js"
+    ],
+    "main": "build/main.js"
+}
